@@ -1,4 +1,4 @@
-const username = "sarath.sureshh";
+const username = "USERNAME_HERE";
 
 /**
  * Initialized like this so we can still run it from browsers, but also use typescript on a code editor for intellisense.
